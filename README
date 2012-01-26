@@ -1,1 +1,7 @@
-GC2USB
+GC2USB GameCube to USB (host) adapter.
+
+Hardware design is based on todays bleeding edge Cortex-M4 Microcontroller with 1M byte flash memory. 
+While this may sound as overkill, this MCU is cheap and really nice. 
+
+Development will be done on STM32F3DISCOVERY evaluation boards, USB Memory stick Bootloader tested!
+
